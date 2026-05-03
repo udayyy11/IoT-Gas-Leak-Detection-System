@@ -16,12 +16,12 @@ Cloud integration (ThingSpeak + Blynk)
 Web dashboard visualization
 Multi-node distributed sensing
 Technologies Used
-**ESP32
-MQ-135 Gas Sensor
-DHT11 Sensor
-ESP-NOW Protocol
-ThingSpeak
-Blynk
+**ESP32 +
+MQ-135 Gas Sensor +
+DHT11 Sensor +
+ESP-NOW Protocol +
+ThingSpeak +
+Blynk +
 Web Dashboard**
 ^^^^^^
 **System Architecture**
